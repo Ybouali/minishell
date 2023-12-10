@@ -6,15 +6,19 @@ Minishell is a 1337 school (42 network) team project to create a basic shell pro
 Grade 100 %
 
 clone the repo
-```bash
+```
 git clone git@github.com:Ybouali/minishell.git
-    
+``` 
 to compile
 
+```
 cd minishell && make
-    
+```
+ 
 run the program
 
+```
 ./minishell
+```
 
 #Enjoy
