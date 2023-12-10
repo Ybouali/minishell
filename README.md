@@ -7,14 +7,14 @@ Grade 100 %
 
 clone the repo
 ```bash
-    git clone git@github.com:Ybouali/minishell.git
+git clone git@github.com:Ybouali/minishell.git
     
 to compile
-    cd minishell && make
+
+cd minishell && make
     
 run the program
 
-    ./minishell
-    ```
+./minishell
 
 #Enjoy
